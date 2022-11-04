@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 1.5;
+  background-color: #f7f7f7;
+  color: #212020;
+}
+
+.country-list {
+  list-style: none;
+}
+
+#search-box {
+  font: inherit;
+  padding: 10px;
+  width: 400px;
+  margin-bottom: 20px;
+}
