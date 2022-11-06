@@ -19,3 +19,7 @@ body {
   width: 400px;
   margin-bottom: 20px;
 }
+
+.country-list > li {
+  margin-bottom: 15px;
+}
